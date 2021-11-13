@@ -14,6 +14,9 @@
         android:theme="@style/Theme.Httpdemo2"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".nihaoma"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity2"
             android:exported="true" />
         <activity
