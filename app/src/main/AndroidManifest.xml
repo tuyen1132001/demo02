@@ -14,12 +14,6 @@
         android:theme="@style/Theme.Httpdemo2"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".MainActivity4"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity3"
-            android:exported="true" />
-        <activity
             android:name=".MainActivity2"
             android:exported="true" />
         <activity
